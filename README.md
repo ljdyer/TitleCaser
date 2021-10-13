@@ -2,7 +2,7 @@
 
 Title Caser is a Google Chrome Extension that converts titles and headings in Wikipedia, BBC News, and the Guardian pages from sentence case into title case.
 
-Title casing is done with python's str.title method via a call to a Heroku Flask API.
+Title casing is done with python's str.title method via a call to a Heroku Flask API. See [app.py](app.py) for the source code.
 
 ## How to use
 
