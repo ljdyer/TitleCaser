@@ -29,15 +29,15 @@ Title casing is done with python's str.title method via a call to a Heroku Flask
         <td colspan="2">https://www.bbc.co.uk/news/uk-england-birmingham-58611602</td>
     </tr>
     <tr>
-        <td style="width:50%"><img src="demo-img/guardian-python-before.png" /></td>
-        <td style="width:50%"><img src="demo-img/guardian-python-after.png" /></td>
+        <td style="width:50%"><img src="demo-img/guardian-python-before.PNG" /></td>
+        <td style="width:50%"><img src="demo-img/guardian-python-after.PNG" /></td>
     </tr>
     <tr>
         <td colspan="2">https://www.theguardian.com/uk-news/2021/sep/18/snake-on-a-pane-dudley-couple-shocked-to-find-python-on-vanity-mirror</td>
     </tr>
     <tr>
-        <td style="width:50%"><img src="demo-img/wikipedia-python-before.png" /></td>
-        <td style="width:50%"><img src="demo-img/wikipedia-python-after.png" /></td>
+        <td style="width:50%"><img src="demo-img/wikipedia-python-before.PNG" /></td>
+        <td style="width:50%"><img src="demo-img/wikipedia-python-after.PNG" /></td>
     </tr>
     <tr>
         <td colspan="2">https://en.wikipedia.org/wiki/Python_(programming_language)</td>
