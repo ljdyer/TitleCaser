@@ -16,4 +16,8 @@ Title casing is done with python's str.title method via a call to a Heroku Flask
 * [https://www.theguardian.com/uk-news/2021/sep/18/snake-on-a-pane-dudley-couple-shocked-to-find-python-on-vanity-mirror](https://www.theguardian.com/uk-news/2021/sep/18/snake-on-a-pane-dudley-couple-shocked-to-find-python-on-vanity-mirror)<br>
 * [https://www.bbc.co.uk/news/uk-england-birmingham-58611602](https://www.bbc.co.uk/news/uk-england-birmingham-58611602)
 
-<img src="readme-img/screenshot.PNG" />
+<table style="width: 100%><tr>
+<td style=width:"50%"><img src="demo-img/bbc-python-before.PNG" /></td>
+<td style=width:"50%"><img src="demo-img/bbc-python-after.PNG" /></td>
+</tr></table>
+
