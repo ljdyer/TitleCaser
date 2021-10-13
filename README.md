@@ -26,21 +26,21 @@ Title casing is done with python's str.title method via a call to a Heroku Flask
         <td style="width:50%"><img src="demo-img/bbc-python-after.png" /></td>
     </tr>
     <tr>
-        <td colspan="2">https://www.bbc.co.uk/news/uk-england-birmingham-58611602</td>
+        <td colspan="2" style="text-align:center">https://www.bbc.co.uk/news/uk-england-birmingham-58611602</td>
     </tr>
     <tr>
         <td style="width:50%"><img src="demo-img/guardian-python-before.PNG" /></td>
         <td style="width:50%"><img src="demo-img/guardian-python-after.PNG" /></td>
     </tr>
     <tr>
-        <td colspan="2">https://www.theguardian.com/uk-news/2021/sep/18/snake-on-a-pane-dudley-couple-shocked-to-find-python-on-vanity-mirror</td>
+        <td colspan="2" style="text-align:center">https://www.theguardian.com/uk-news/2021/sep/18/snake-on-a-pane-dudley-couple-shocked-to-find-python-on-vanity-mirror</td>
     </tr>
     <tr>
         <td style="width:50%"><img src="demo-img/wikipedia-python-before.PNG" /></td>
         <td style="width:50%"><img src="demo-img/wikipedia-python-after.PNG" /></td>
     </tr>
     <tr>
-        <td colspan="2">https://en.wikipedia.org/wiki/Python_(programming_language)</td>
+        <td colspan="2" style="text-align:center">https://en.wikipedia.org/wiki/Python_(programming_language)</td>
     </tr>
 </tr></table>
 
