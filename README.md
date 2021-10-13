@@ -22,7 +22,11 @@ Title casing is done with python's str.title method via a call to a Heroku Flask
         <td style="width:50%"><img src="demo-img/bbc-python-after.png" /></td>
     </tr>
     <tr>
-        <td colspan="2" style="text-align:center">https://www.bbc.co.uk/news/uk-england-birmingham-58611602</td>
+        <td colspan="2" style="text-align:center">
+            <a id="bbc-link" href="https://www.bbc.co.uk/news/uk-england-birmingham-58611602">
+                https://www.bbc.co.uk/news/uk-england-birmingham-58611602
+            </a>
+        </td>
     </tr>
     <tr>
         <td style="width:50%"><img src="demo-img/guardian-python-before.PNG" /></td>
