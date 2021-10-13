@@ -12,12 +12,13 @@ CORS(app)
 # ========================================
 @app.route('/getmsg/', methods=['GET'])
 def respond():
-    """If a non-empty string is provided, return the same string in title case"""
+    """If a non-empty string is provided, return the same string in title
+    case"""
 
     # Get name from URL parameter and prepare response
     text = request.args.get("text", None)
     response = {}
-    # Send error if no text sent
+    # Send error if no text received
     if not text:
         response["ERROR"] = "No text sent. Please send some text."
     # Otherwise, return the text in title case
@@ -29,5 +30,6 @@ def respond():
 
 # ========================================
 if __name__ == '__main__':
-    # Threaded option to enable multiple instances for multiple user access support
+    # Threaded option to enable multiple instances for multiple user access
+    # support
     app.run(threaded=True, port=5000)
