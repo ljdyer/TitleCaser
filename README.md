@@ -10,11 +10,7 @@ Title casing is done with python's str.title method via a call to a Heroku Flask
 2. Confirm that the extension is installed and enabled in the Chrome [Extension manager](chrome://extensions/)
 3. Open any page on Wikipedia, BBC News, or the Guardian websites and look at the titles and headings! Try opening the pages below to get started.
 
-## Example pages
-
-* [https://en.wikipedia.org/wiki/Python_(programming_language)](https://en.wikipedia.org/wiki/Python_(programming_language))<br>
-* [https://www.theguardian.com/uk-news/2021/sep/18/snake-on-a-pane-dudley-couple-shocked-to-find-python-on-vanity-mirror](https://www.theguardian.com/uk-news/2021/sep/18/snake-on-a-pane-dudley-couple-shocked-to-find-python-on-vanity-mirror)<br>
-* [https://www.bbc.co.uk/news/uk-england-birmingham-58611602](https://www.bbc.co.uk/news/uk-england-birmingham-58611602)
+## Examples
 
 <table style="width: 100%; border: 1px solid black;" >
     <tr>
