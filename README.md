@@ -17,13 +17,13 @@ Title casing is done with python's str.title method via a call to a Heroku Flask
 * [https://www.bbc.co.uk/news/uk-england-birmingham-58611602](https://www.bbc.co.uk/news/uk-england-birmingham-58611602)
 
 <table style="width: 100%; border: 1px solid black;" >
-    <th>
-        <td style="width:50%">Without Title Caser</td>
-        <td style="width:50%">With Title Caser</td>
-    </th>
     <tr>
-        <td style="width:50%"><img src="demo-img/bbc-python-before.PNG" /></td>
-        <td style="width:50%"><img src="demo-img/bbc-python-after.PNG" /></td>
+        <th style="width:50%">Without Title Caser</td>
+        <th style="width:50%">With Title Caser</td>
+    </tr>
+    <tr>
+        <td style="width:50%"><img src="demo-img/bbc-python-before.png" /></td>
+        <td style="width:50%"><img src="demo-img/bbc-python-after.png" /></td>
     </tr>
 </tr></table>
 
