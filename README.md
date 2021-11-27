@@ -4,7 +4,7 @@ Title Caser is a Google Chrome Extension that converts titles and headings in Wi
 
 Title casing is carried out with Python's **str.title** method via a call to a Heroku Flask API. See [app.py](app.py) for the Python source code.
 
-Title Caser was developed as part of an assignment for a University Masters' course module in Python to propose potential uses for a selection of Python string methods.
+Title Caser was developed as part of an assignment for a University Masters course module in Python to propose potential uses for a selection of Python string methods.
 
 ## How to use
 
